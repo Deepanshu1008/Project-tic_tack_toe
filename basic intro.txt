@@ -1,0 +1,3 @@
+An Interesting Variant of this game
+As said above, if two experienced players are playing the Tic-Tac-Toe, then the game will always draw.
+There is another viral variant of this game- Ultimate Tic-Tac-Toe, which aims to make the normal Tic-Tac-Toe more interesting and less predictable.
